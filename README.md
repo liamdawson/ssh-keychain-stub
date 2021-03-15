@@ -2,6 +2,10 @@
 
 Workaround for the Big Sur issue that prevents `ssh-keychain.dylib` from working with ssh-add.
 
+## Pre-requisites
+
+- XCode Command Line Tools
+
 ## Installation
 
 ```shell
